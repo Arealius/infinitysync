@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://infinitysync.net/sitemap.xml

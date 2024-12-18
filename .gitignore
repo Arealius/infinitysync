@@ -1,0 +1,6 @@
+.env
+vendor/
+cgi-bin/
+.well-known/
+tests/
+tmp/
